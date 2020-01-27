@@ -1,9 +1,3 @@
-STATION,DATE,TIME,WATER_LEVEL,QUALITY,DATATRANS,COMMENT
-D4N1658 ,19980809,12:00,-41.65,1,7,Created by HYCREATE. DEFAULT 08:16_29/07/2005 from V:\OPLAAI\DOCUMENT10.TXT                         
-D4N1658 ,19991215,12:00,-38.54,1,7,                                                                                                    
-D4N1658 ,20000315,12:00,-38.34,1,7,                                                                                                    
-D4N1658 ,20000316,12:00,-38.16,1,7,                                                                                                    
-D4N1658 ,20000502,12:00,-38.07,1,7,                                                                                                    
-D4N1658 ,20000615,12:00,-38.6,1,7,                                                                                                    
-D4N1658 ,20000815,12:00,-38.13,1,7,                                                                                                    
-D4N1658 ,20040715,12:00,-36.7,1,7,                                                                                                    
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e66cf9a6ffaf436b6ff7edaefadf052b739fcf5f023ba6d08e31969a81cdad7
+size 1151

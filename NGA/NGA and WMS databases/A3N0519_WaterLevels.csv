@@ -1,7 +1,3 @@
-STATION,DATE,TIME,WATER_LEVEL,QUALITY,DATATRANS,COMMENT,
-A3N0519 ,20101125,16:30,0,93,7,                                                                                                    ,
-A3N0519 ,20110304,08:00,0,93,7,Dry from 25/11/2010 till 10/2013.                                                                   ,
-A3N0519 ,20110608,08:00,0,93,7,                                                                                                    ,
-A3N0519 ,20110928,08:01,0,93,7,DRY                                                                                                 ,
-A3N0519 ,20111201,11:50,0,93,7,dry                                                                                                 ,
-A3N0519 ,20120228,14:27,0,93,7,dry, collapsed                                                                                      
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc9d8b1b8447641e4b608a8bda2939cfc9954d4298d256efe9fb81ecbdbd38e0
+size 861
