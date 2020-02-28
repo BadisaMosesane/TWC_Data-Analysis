@@ -1,0 +1,96 @@
+Type of Report requested:  Standard Results
+Selection Criteria:  
+  Monitoring Points
+  Monitoring Variables
+Date Range:                     1950-01-01 to 2019-09-04
+Season:                         No Seasonal Filter
+Result Types:                   Logger,Depth,Single
+Depth Range:                    N/A to N/A
+Request performed by:  loutri
+Date and Time of this request:  2019-09-04 09:47:10
+Database and Server this request is performed on:  wmsdb@inf_05_iwqs
+List of files included:
+        Ramotswa data 2 20190904_CSV.TXT This file contains the selection criteria and legend for data extracted
+        Ramotswa data 2 20190904.CSV This file contains the data extracted as requested
+List of Abbreviations:
+              Al-Diss-Water(ALUMINIUM) (mg/L) ResultALUMINIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Al-Diss-Water(ALUMINIUM) (mg/L) Detection LimitALUMINIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Al-Diss-Water(ALUMINIUM) (mg/L) Greater ThanALUMINIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              As-Diss-Water(ARSENIC) (mg/L) ResultARSENIC, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              As-Diss-Water(ARSENIC) (mg/L) Detection LimitARSENIC, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              As-Diss-Water(ARSENIC) (mg/L) Greater ThanARSENIC, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              B-Diss-Water(BORON) (mg/L) ResultBORON, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              B-Diss-Water(BORON) (mg/L) Detection LimitBORON, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              B-Diss-Water(BORON) (mg/L) Greater ThanBORON, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Ba-Diss-Water(BARIUM) (mg/L) ResultBARIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Ba-Diss-Water(BARIUM) (mg/L) Detection LimitBARIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Ba-Diss-Water(BARIUM) (mg/L) Greater ThanBARIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              COD(CHEMICAL OXYGEN DEMAND) (mg/L) ResultCHEMICAL OXYGEN DEMAND, OXIDISABLE MATTER measured in WATER (MILLIGRAM PER LITRE) Result
+              COD(CHEMICAL OXYGEN DEMAND) (mg/L) Detection LimitCHEMICAL OXYGEN DEMAND, OXIDISABLE MATTER measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              COD(CHEMICAL OXYGEN DEMAND) (mg/L) Greater ThanCHEMICAL OXYGEN DEMAND, OXIDISABLE MATTER measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Cd-Diss-Water(CADMIUM) (mg/L) ResultCADMIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Cd-Diss-Water(CADMIUM) (mg/L) Detection LimitCADMIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Cd-Diss-Water(CADMIUM) (mg/L) Greater ThanCADMIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Cr-Diss-Water(CHROMIUM) (mg/L) ResultCHROMIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Cr-Diss-Water(CHROMIUM) (mg/L) Detection LimitCHROMIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Cr-Diss-Water(CHROMIUM) (mg/L) Greater ThanCHROMIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Cu-Diss-Water(COPPER) (mg/L) ResultCOPPER, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Cu-Diss-Water(COPPER) (mg/L) Detection LimitCOPPER, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Cu-Diss-Water(COPPER) (mg/L) Greater ThanCOPPER, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Fe-Diss-Water(IRON) (mg/L) ResultIRON, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Fe-Diss-Water(IRON) (mg/L) Detection LimitIRON, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Fe-Diss-Water(IRON) (mg/L) Greater ThanIRON, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Mn-Diss-Water(MANGANESE) (mg/L) ResultMANGANESE, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Mn-Diss-Water(MANGANESE) (mg/L) Detection LimitMANGANESE, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Mn-Diss-Water(MANGANESE) (mg/L) Greater ThanMANGANESE, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Mo-Diss-Water(MOLYBDENUM) (mg/L) ResultMOLYBDENUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Mo-Diss-Water(MOLYBDENUM) (mg/L) Detection LimitMOLYBDENUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Mo-Diss-Water(MOLYBDENUM) (mg/L) Greater ThanMOLYBDENUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Ni-Diss-Water(NICKEL) (mg/L) ResultNICKEL, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Ni-Diss-Water(NICKEL) (mg/L) Detection LimitNICKEL, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Ni-Diss-Water(NICKEL) (mg/L) Greater ThanNICKEL, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Pb-Diss-Water(LEAD) (mg/L) ResultLEAD, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Pb-Diss-Water(LEAD) (mg/L) Detection LimitLEAD, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Pb-Diss-Water(LEAD) (mg/L) Greater ThanLEAD, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Sr-Diss-Water(STRONTIUM) (mg/L) ResultSTRONTIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Sr-Diss-Water(STRONTIUM) (mg/L) Detection LimitSTRONTIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Sr-Diss-Water(STRONTIUM) (mg/L) Greater ThanSTRONTIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              V-Diss-Water(VANADIUM) (mg/L) ResultVANADIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              V-Diss-Water(VANADIUM) (mg/L) Detection LimitVANADIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              V-Diss-Water(VANADIUM) (mg/L) Greater ThanVANADIUM, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              Zn-Diss-Water(ZINC) (mg/L) ResultZINC, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              Zn-Diss-Water(ZINC) (mg/L) Detection LimitZINC, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              Zn-Diss-Water(ZINC) (mg/L) Greater ThanZINC, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              E.COLI-Susp-Water(ESCHERICHIA COLI) (cfu/100mL) ResultESCHERICHIA COLI, SUSPENDED measured in WATER (COLONY FORMING UNIT PER 100 ML) Result
+              E.COLI-Susp-Water(ESCHERICHIA COLI) (cfu/100mL) Detection LimitESCHERICHIA COLI, SUSPENDED measured in WATER (COLONY FORMING UNIT PER 100 ML) Detection Limit
+              E.COLI-Susp-Water(ESCHERICHIA COLI) (cfu/100mL) Greater ThanESCHERICHIA COLI, SUSPENDED measured in WATER (COLONY FORMING UNIT PER 100 ML) Greater Than
+              E.COLI-SuspMPN-Water(ESCHERICHIA COLI BY MPN METHOD) (MPN/100mL) ResultESCHERICHIA COLI BY MPN METHOD, SUSPENDED measured in WATER (MOST PROBABLE NUMBER/100 ML) Result
+              E.COLI-SuspMPN-Water(ESCHERICHIA COLI BY MPN METHOD) (MPN/100mL) Detection LimitESCHERICHIA COLI BY MPN METHOD, SUSPENDED measured in WATER (MOST PROBABLE NUMBER/100 ML) Detection Limit
+              E.COLI-SuspMPN-Water(ESCHERICHIA COLI BY MPN METHOD) (MPN/100mL) Greater ThanESCHERICHIA COLI BY MPN METHOD, SUSPENDED measured in WATER (MOST PROBABLE NUMBER/100 ML) Greater Than
+              Eh-Phys-Water(REDOX POTENTIAL) (mV) ResultREDOX POTENTIAL, PHYSICAL MEASUREMENTS measured in WATER (MILLIVOLTS) Result
+              Eh-Phys-Water(REDOX POTENTIAL) (mV) Detection LimitREDOX POTENTIAL, PHYSICAL MEASUREMENTS measured in WATER (MILLIVOLTS) Detection Limit
+              Eh-Phys-Water(REDOX POTENTIAL) (mV) Greater ThanREDOX POTENTIAL, PHYSICAL MEASUREMENTS measured in WATER (MILLIVOLTS) Greater Than
+              Hydrogen-3-Water(TRITIUM ATOM RATIO WITH RESPECT TO HYDROGEN (3H/1H)) (TU) ResultTRITIUM ATOM RATIO WITH RESPECT TO HYDROGEN (3H/1H), ISOTOPE measured in WATER (TRITIUM UNITS (118 MB/L)) Result
+              Hydrogen-3-Water(TRITIUM ATOM RATIO WITH RESPECT TO HYDROGEN (3H/1H)) (TU) Counting StatisticTRITIUM ATOM RATIO WITH RESPECT TO HYDROGEN (3H/1H), ISOTOPE measured in WATER (TRITIUM UNITS (118 MB/L)) Counting Statistic
+              Hydrogen-3-Water(TRITIUM ATOM RATIO WITH RESPECT TO HYDROGEN (3H/1H)) (TU) Greater ThanTRITIUM ATOM RATIO WITH RESPECT TO HYDROGEN (3H/1H), ISOTOPE measured in WATER (TRITIUM UNITS (118 MB/L)) Greater Than
+              O-Abs-Water(OXYGEN ABSORBED) (mg/L) ResultOXYGEN ABSORBED, ABSORBED measured in WATER (MILLIGRAM PER LITRE) Result
+              O-Abs-Water(OXYGEN ABSORBED) (mg/L) Detection LimitOXYGEN ABSORBED, ABSORBED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              O-Abs-Water(OXYGEN ABSORBED) (mg/L) Greater ThanOXYGEN ABSORBED, ABSORBED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              O-Diss-Water(OXYGEN DISSOLVED) (mg/L) ResultOXYGEN DISSOLVED, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Result
+              O-Diss-Water(OXYGEN DISSOLVED) (mg/L) Detection LimitOXYGEN DISSOLVED, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              O-Diss-Water(OXYGEN DISSOLVED) (mg/L) Greater ThanOXYGEN DISSOLVED, DISSOLVED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              SOLIDS-Susp-Water(TOTAL SUSPENDED SOLIDS) (mg/L) ResultTOTAL SUSPENDED SOLIDS, SUSPENDED measured in WATER (MILLIGRAM PER LITRE) Result
+              SOLIDS-Susp-Water(TOTAL SUSPENDED SOLIDS) (mg/L) Detection LimitTOTAL SUSPENDED SOLIDS, SUSPENDED measured in WATER (MILLIGRAM PER LITRE) Detection Limit
+              SOLIDS-Susp-Water(TOTAL SUSPENDED SOLIDS) (mg/L) Greater ThanTOTAL SUSPENDED SOLIDS, SUSPENDED measured in WATER (MILLIGRAM PER LITRE) Greater Than
+              TC-SuspMPN-Water(TOTAL COLIFORM COUNT BY MPN METHOD) (MPN/100mL) ResultTOTAL COLIFORM COUNT BY MPN METHOD, SUSPENDED measured in WATER (MOST PROBABLE NUMBER/100 ML) Result
+              TC-SuspMPN-Water(TOTAL COLIFORM COUNT BY MPN METHOD) (MPN/100mL) Detection LimitTOTAL COLIFORM COUNT BY MPN METHOD, SUSPENDED measured in WATER (MOST PROBABLE NUMBER/100 ML) Detection Limit
+              TC-SuspMPN-Water(TOTAL COLIFORM COUNT BY MPN METHOD) (MPN/100mL) Greater ThanTOTAL COLIFORM COUNT BY MPN METHOD, SUSPENDED measured in WATER (MOST PROBABLE NUMBER/100 ML) Greater Than
+              TEMP-Phys-Water(TEMPERATURE) (°C) ResultTEMPERATURE, PHYSICAL MEASUREMENTS measured in WATER (DEGREE CELCIUS) Result
+              TEMP-Phys-Water(TEMPERATURE) (°C) Detection LimitTEMPERATURE, PHYSICAL MEASUREMENTS measured in WATER (DEGREE CELCIUS) Detection Limit
+              TEMP-Phys-Water(TEMPERATURE) (°C) Greater ThanTEMPERATURE, PHYSICAL MEASUREMENTS measured in WATER (DEGREE CELCIUS) Greater Than
+              NOT APPLICABLE                                                                  NOT APPLICABLE                                                                  
+              MERCURY CHLORIDE                                                                MERCURY CHLORIDE                                                                
+              NO PRESERVATIVE USED                                                            NO PRESERVATIVE USED                                                            
+              PRESERVE WITH H2SO4                                                             PRESERVE WITH H2SO4                                                             
+              KEEP COOL AND DARK (COOL BOX WITH ICE PACKS)                                    KEEP COOL AND DARK (COOL BOX WITH ICE PACKS)                                    
+Disclaimer: Department: Water and Sanitation cannot be held responsible for the accuracy of data provided or interpretations made. Scientific complications in the attached interpretation or any other interpretations are beyond the scope of this presentation. Please inform us of any results or site descriptions that appear anomalous. Suggested citation for use of the data in publications: DWS [year]. National Water Management System data extracted on [ccyy-mm-dd]. Department: Water and Sanitation, Pretoria

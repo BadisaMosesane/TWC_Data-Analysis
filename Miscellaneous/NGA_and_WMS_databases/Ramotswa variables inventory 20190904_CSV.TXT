@@ -1,0 +1,17 @@
+Type of Report requested:  Inventory of Analyses
+Selection Criteria:  
+  Monitoring Points
+  Monitoring Variables
+Date Range:                     1950-01-01 to 2019-09-04
+Season:                         No Seasonal Filter
+Result Types:                   All
+Depth Range:                    N/A to N/A
+Request performed by:  loutri
+Date and Time of this request:  2019-09-04 09:32:52
+Database and Server this request is performed on:  wmsdb@inf_05_iwqs
+List of files included:
+        Ramotswa variables inventory 20190904_CSV.TXT This file contains the selection criteria and legend for data extracted
+        Ramotswa variables inventory 20190904.CSV This file contains the data extracted as requested
+List of Abbreviations:
+                                       
+Disclaimer: Department: Water and Sanitation cannot be held responsible for the accuracy of data provided or interpretations made. Scientific complications in the attached interpretation or any other interpretations are beyond the scope of this presentation. Please inform us of any results or site descriptions that appear anomalous. Suggested citation for use of the data in publications: DWS [year]. National Water Management System data extracted on [ccyy-mm-dd]. Department: Water and Sanitation, Pretoria
