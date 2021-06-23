@@ -2,11 +2,8 @@
 # coding: utf-8
 
 # # Exploratory Data Analysis for the TWC datasets from NGA and WMS
-# - An attempt for a step-by-step data cleaning process leading to an EDA datapipeline & additional ML workflow & Use case
-
 # # Dev Notes 
 # - Writing code as classes | beyond notebooks, some form of an app to be deployed
-# - Write functions as pure functions, e.g clojure
 # - Do a config block at the top | specify how one will run the notebook, spec file_paths
 # - Call a func and prompt user to put in file_path
 
@@ -56,19 +53,6 @@ def listDirs():
     """ get the list of all files and directories in the current working directory, TWC_Datasets """
     print("All files and dirs in the TWC_Datasets directory: \n", os.listdir())
 listDirs()
-
-
-# # TO-DO !!!
-# call python | bash scripts inside the Jupyter notebook for handling TWC datasets
-
-# In[5]:
-
-
-# do a bash-like script or python regex for listing all files in the directories, NGA, RTBA etc 
-# ls -al | cd NGA/ | ls -al
-
-
-# In[6]:
 
 
 # define funcs for listing files (by types) inside NGA dir
